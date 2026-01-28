@@ -1,4 +1,4 @@
-package com.growfin;
+package com.pr;
 
 public class Main {
 
